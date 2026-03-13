@@ -87,7 +87,7 @@ If you use this predictor or dataset in your research, please cite:
   title={Data-Driven Power Prediction for GTernal Mobile Robots: An Autoregressive Model for Energy-Aware Multi-Robot Simulation},
   author={Abdelmeguid, Yassin and Hasan, Ammar},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+  year={2026}
 }
 ```
 
