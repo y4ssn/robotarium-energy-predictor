@@ -6,7 +6,7 @@ This repository accompanies the paper "Data-Driven Power Prediction for GTernal 
 
 ## Repository Contents
 ```
-gternal-energy-predictor/
+robotarium-energy-predictor/
 ├── data/
 │   ├── energy_data_trial1_structured.npy
 │   ├── energy_data_trial2_goal_navigation.npy
