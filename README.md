@@ -90,6 +90,12 @@ If you use this predictor or dataset in your research, please cite:
   year={2026}
 }
 ```
+## Authors
+
+- Dr. Ammar Hasan, American University of Sharjah
+- Yassin Abdelmeguid, American University of Sharjah
+
+
 
 ## Acknowledgments
 
